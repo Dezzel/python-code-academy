@@ -7,4 +7,6 @@ Here are some interesting projects, what I create with the CodeAcademy’s cours
 
 - `rgb2hex.py` - This is RGB - Hex and Hex - RGB converter.
 
+- `rps.py` - "Rock-Paper-Scissors" game against computer.
+
 - `sea_fight.py` -The Battle Ship game. Play against computer in 5x5 board.
